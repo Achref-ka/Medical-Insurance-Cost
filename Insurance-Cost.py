@@ -13,7 +13,7 @@ from sklearn.pipeline import Pipeline
 
 # In this project, you have to perform analytics operations on an insurance database that uses the below mentioned parameters.
 
-# Parameter	        Description	                        Content type
+# Parameter	      Description	                        Content type
 # age	            Age in years	                    integer
 # gender	        Male or Female	                    integer (1 or 2)
 # bmi	            Body mass index	                    float
